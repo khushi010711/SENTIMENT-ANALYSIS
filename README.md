@@ -86,17 +86,28 @@ print(f"\nSentiment for the review: {sentiment}")
 ## OUTPUT
 
 [nltk_data] Downloading package punkt to
+
 [nltk_data]     C:\Users\chait\AppData\Roaming\nltk_data...
+
 [nltk_data]   Package punkt is already up-to-date!
+
 [nltk_data] Downloading package stopwords to
+
 [nltk_data]     C:\Users\chait\AppData\Roaming\nltk_data...
+
 [nltk_data]   Package stopwords is already up-to-date!
+
 [nltk_data] Downloading package wordnet to
+
 [nltk_data]     C:\Users\chait\AppData\Roaming\nltk_data...
+
 [nltk_data]   Package wordnet is already up-to-date!
+
 Accuracy: 88.62%
 
+
 Classification Report:
+
               precision    recall  f1-score   support
 
            0       0.90      0.87      0.88      4961
